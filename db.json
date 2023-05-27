@@ -23,5 +23,47 @@
         "profile_picture": "profile2.jpg",
               "isBooked" : true
       }
+    ],
+    "freelancers": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "password": "password",
+        "profession": "Web Developer",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "hourly_rate": 25,
+        "profile_picture": "profile1.jpg",
+        "isBooked": false
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+        "password": "password",
+        "profession": "Graphic Designer",
+        "skills": [
+          "Photoshop",
+          "Illustrator"
+        ],
+        "hourly_rate": 30,
+        "profile_picture": "profile2.jpg",
+        "isBooked": true
+      },
+      {
+        "name": "mohini",
+        "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSKDau8wYu8DwENnCMpCLXXuCfRff6jvXuToZfVhjDqw&usqp=CAU&ec=48665699",
+        "email": "mohini@gmail.com",
+        "password": "xfvggy",
+        "profession": "Graphic Designer",
+        "skills": "All",
+        "hourly_rate": "150",
+        "isBooked": false,
+        "id": 3
+      }
     ]
   }
